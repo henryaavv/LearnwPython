@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print("Hola mundo")
 def suma(a,b):
     return a + b
@@ -17,3 +18,5 @@ print("Entiende programa bien")
 
 print("mloooooooooooooooo")
 print("ya no borres nada")
+=======
+>>>>>>> 03a8e833e59489f80ce71757da3949409e17f300
