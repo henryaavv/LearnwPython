@@ -11,9 +11,6 @@ edad=25
 print(f"hola {nombre} tienes {edad} añoteeeees")
 
 print("hola {nombre} tienes  {edad} añitos")
-das*_ASd-@ asda4á█Ä{êAAD1o█§bzxcascas-}ands 
-assertc
-assertas
-caseas
-caseas
-casesc
+
+
+print("Entiende programa bien")
