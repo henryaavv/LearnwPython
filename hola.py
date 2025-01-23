@@ -16,3 +16,9 @@ print("hola {nombre} tienes  {edad} añitos")
 print("Entiende programa bien")
 
 print("mloooooooooooooooo")
+
+aña añexis malo
+me equivoqueee
+6542
+($#"memoryview")
+ corrigelo
