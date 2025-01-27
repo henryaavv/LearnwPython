@@ -25,3 +25,5 @@ print("estoy dentro de la rama1")
 print("Se actualizó el nombre de la rama 1 a ramaSecundaria")
 
 print("Acabo de crear ramitaS1")
+
+print("Acabo de fusionar ramitaS1 a ramaSecundaria")
